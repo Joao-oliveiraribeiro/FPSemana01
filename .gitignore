@@ -1,0 +1,5 @@
+.Ds_Store
+Thumbs.db
+*.log
+.ideia/
+*.iml
