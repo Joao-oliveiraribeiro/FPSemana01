@@ -1,7 +1,7 @@
 def informacoes_criatura():
-    nome = input("Digite o nome: ")
-    vida = int(input("Digite a vida: "))
-    nivel = int(input("Digite o nível: "))
+    nome = input()
+    vida = int(input())
+    nivel = int(input())
     return nome, (vida, nivel)
 
 def ord_nivel(criatura):
